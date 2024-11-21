@@ -1,0 +1,6 @@
+1,Alice,0
+2,Bob,1
+3,Charlie,0
+4,David,0
+5,Emma,1
+6,ajharul,0

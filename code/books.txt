@@ -1,0 +1,22 @@
+1,The Imam's Diary,Mohammad Shamsur Rahman,Islamic,0,1678090800
+2,Journey of a Soul,Abdul Malik,Islamic,1,0
+3,Islamic Teachings for the Modern World,Dr. Habibur Rahman,Islamic,0,1678090800
+4,The Islamic Way of Life,Shafiqul Islam,Islamic,1,0
+5,Reflections on the Quran,Abdur Rahman,Islamic,0,1678090800
+6,Islamic History and Culture in Bangladesh,Dr. Mohammad Iqbal,Islamic,1,0
+7,The Teachings of Prophet Muhammad (PBUH),Maulana Abul Kalam Azad,Islamic,0,1678090800
+8,The Imam's Diary,Mohammad Shamsur Rahman,Islamic,0,1678090800
+9,The Chronicles of Dhaka,Asaduzzaman Noor,Urban Fiction,1,0
+10,My Life in Politics,Sheikh Hasina,Biography,0,1678090800
+11,Journey of a Soul,Abdul Malik,Islamic,1,0
+12,A Glimpse into History,Humayun Ahmed,Historical Fiction,1,0
+13,The Adventures of Captain Golam,Shafiqul Islam,Adventure,0,1678090800
+14,My Political Struggles,Sheikh Mujibur Rahman,Political,1,0
+15,The Quiet Rebellion,Shirin Akter,Fiction,0,1678090800
+16,Victory: Bangladesh's Fight for Freedom,Shahidul Alam,Politics,0,1678090800
+17,The Golden Ball: Bangladesh Cricket's Rise,Sarwar Jamal,Cricket,1,0
+18,Endurance: My Journey as a Bangladeshi Athlete,Ariful Islam,Sports,1,0
+19,Islam and Modernity in Bangladesh,Dr. Habibur Rahman,Islamic,1,0
+20,The Story of a Nation: Bangladesh’s Road to Independence,Mustafa Nurul Islam,History,0,1678090800
+21,bela forabar age,islamic,arif azad,0,1678090800
+22,peradoxical sazid,arif azad,islamic,1,0

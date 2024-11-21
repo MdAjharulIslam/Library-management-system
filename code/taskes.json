@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "C++: g++ build active file",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "${workspaceFolder}/LibraryManagementSystem.cpp", 
+                "${workspaceFolder}/Book.cpp", 
+                "-o",
+                "${workspaceFolder}/LibraryManagementSystem.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Generated task for building LibraryManagementSystem with Book class."
+        }
+    ]
+}
